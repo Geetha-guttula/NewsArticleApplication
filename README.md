@@ -33,8 +33,8 @@ The **News Article App** is a SwiftUI-based iOS application that fetches the lat
 ## Project Setup
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/your-repo-link.git
-   cd NewsArticleApp
+   git clone [https://github.com/Geetha-guttula/NewsArticleApplication.git](https://github.com/Geetha-guttula/NewsArticleApplication.git)
+   
    ```
 2. Open the project in Xcode.
 3. Ensure you have a valid NewsAPI key and update the API URL in `AppUrls.swift`.
