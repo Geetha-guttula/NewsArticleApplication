@@ -36,7 +36,7 @@ The **News Article App** is a SwiftUI-based iOS application that fetches the lat
    git clone [https://github.com/Geetha-guttula/NewsArticleApplication.git](https://github.com/Geetha-guttula/NewsArticleApplication.git)
    
    ```
-2. Open the project in Xcode.
+2.Please unzip the file and then Open the project in Xcode.
 3. Ensure you have a valid NewsAPI key and update the API URL in `AppUrls.swift`.
 4. Build and run the app on a simulator or a real device.
 
